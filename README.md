@@ -145,8 +145,7 @@ Contributions are welcome! Here’s how you can get involved:
 1. Fork the repository and create a new branch.
 2. Make changes or add features (e.g., improving the chat interface or adding new file types).
 3. Open a Pull Request (PR) with a clear description.
-4. 
-We’ll review and merge if it aligns with the project’s goals.
+
 
 Feel free to suggest improvements to the Monaco configuration, new chat commands, or better file navigation. Let us know if you build something cool on top of subjeto!
 
